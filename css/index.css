@@ -1,0 +1,63 @@
+
+
+
+
+
+.logo {
+	border: 1px solid black;
+}
+
+.bread-crums-container {
+	border: 1px solid black;	
+}
+
+.contact-bar {
+	border: 1px solid black;	
+}
+
+.breadcrumb,
+.breadcrumb-item {
+	border: 1px solid black;
+}
+
+.searc-container,
+.busqueda {
+	border: 1px solid black;
+}
+
+.navbar-nav {
+	margin-right: 0;
+}
+
+.navbar-nav,
+.nav-item,
+.nav-item2,
+.imagen-con2 {
+	border: 1px solid black;
+	background-color: gainsboro;
+}
+
+.izquierda,
+.features {
+	border: 1px solid black;
+}
+
+
+.contenedor-productos {
+	border: 1px solid black;
+}
+
+.productos-top,
+.producto1,
+.producto2,
+.producto3,
+.producto4 {
+	border: 1px solid black;
+}
+
+.derecha {
+	border: 1px solid black;
+}
+
+
+
